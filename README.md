@@ -209,7 +209,7 @@ Ans. On looking for the MAC lookup we found out that company name was: XIRCOM
 ```
 <br>
 <p align='center'>
-<a href="#"><img src='./mage/case-15.png'></a>
+<a href="#"><img src='./image/case-15.png'></a>
 </p>
 
 <br>
