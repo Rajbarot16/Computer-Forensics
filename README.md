@@ -99,7 +99,7 @@ Ans. Step-1: Go to the path:“C:\windows\system32\config\software\Microsoft\Win
 **8. When was the last recorded computer shutdown date/time?**
 ```
 Ans. Step-1: Go to the path:“C:\windows\system32\config\system\CurrentControlSet001\Control\Windows\ShutdownTime”
-     Step-2: 0-07-4D-8C-C4-01 
+     Step-2: C4 FC 00 07 4D 8C C4 01 
 ```
 <br>
 <p align='center'>
