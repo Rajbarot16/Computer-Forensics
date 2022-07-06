@@ -254,4 +254,17 @@ Ans. Here Six installed Programs that used for Hacking is below table.
 <a href="#"><img src='./image/case-16.png'></a>
 </p>
 
+**17. What is the SMTP email address for Mr. Evil?**
+```
+Ans. E-mail Address of Mr. Evil is : whoknowsme@sbcglobal.net
+     To find this do the keyword search of SMTP.
+     Then search for the file NTUSER.DAT, click on it and in the lower pane click on Text Tab. You will find it there.
+```
+<br>
+<p align='center'>
+<img src='image/case-17.png?raw=true'>
+</p>
+
+<br>
+
 
