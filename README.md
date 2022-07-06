@@ -279,7 +279,7 @@ For finding the server setting of NNTP search for the NNTP in the keyword and th
 ```
 <br>
 <p align='center'>
-<img src='Images/Ans18.png?raw=true'>
+<img src='image/case-18.png?raw=true'>
 </p>
 
 <br>
@@ -296,7 +296,7 @@ In these we will see that msimn application is the executable for Microsoft Outl
 ```
 <br>
 <p align='center'>
-<img src='Images/Ans19.png?raw=true'>
+<img src='image/case-19.png?raw=true'>
 </p>
 
 <br>
@@ -315,7 +315,7 @@ Go to the path:“C:\Document and Settings\Mr. Evil\Local Settings\Application D
 ```
 <br>
 <p align='center'>
-<img src='Images/Ans20.png?raw=true'>
+<img src='image/case-20.png?raw=true'>
 </p>
 
 <br>
@@ -333,7 +333,7 @@ Go to the path:“C:\Program Files\mIRC\mirc.ini”.
 ```
 <br>
 <p align='center'>
-<img src='Images/Ans21.png?raw=true'>
+<img src='image/case-21.png?raw=true'>
 </p>
 
 <br>
@@ -350,7 +350,7 @@ Go to the path:"C:\Program Files\mIRC\logs"
 ```
 <br>
 <p align='center'>
-<img src='Images/Ans22.png?raw=true'>
+<img src='image/case-22.png?raw=true'>
 </p>
 
 <br>
@@ -367,7 +367,7 @@ On viewing the recent file we find that the location of the file which stores ca
 ```
 <br>
 <p align='center'>
-<img src='Images/Ans23.png?raw=true'>
+<img src='image/case-23.png?raw=true'>
 </p>
 
 <br>
@@ -381,8 +381,7 @@ Go to the path:"C:\Documents and Settings\Mr. Evil\interception".
 ```
 <br>
 <p align='center'>
-<img src='Images/Ans24.png?raw=true'>
-<img src="Images/Ans24.png?raw=true">
+<img src='image/case-24.png?raw=true'>
 </p>
 
 <br>
@@ -396,8 +395,8 @@ Go to the path:"C:\Documents and Settings\Mr. Evil\interception".
 ```
 <br>
 <p align='center'>
-<img src='Images/Ans25.png?raw=true"'>
-<img src='Images/Ans25_1.png?raw=true'>
+<img src='image/case-25_1.png?raw=true"'>
+<img src='image/case-25_2.png?raw=true'>
 </p>
 
 <br>
