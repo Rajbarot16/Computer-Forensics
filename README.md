@@ -410,7 +410,7 @@ Ans. For these search in the web history which is present in the Data Artifacts.
 ```
 <br>
 <p align='center'>
-<img src='Images/Ans26.png?raw=true'>
+<img src='image/case-26.png?raw=true'>
 </p>
 
 <br>
@@ -422,7 +422,7 @@ Ans.To find this, I do a keyword search on the email address.
 ```
 <br>
 <p align='center'>
-<img src='Images/Ans27.png?raw=true'>
+<img src='image/case-27.png?raw=true'>
 </p>
 
 <br>
@@ -436,7 +436,7 @@ Go to the path:"C:\RECYCLER\S-1–5–21–2000478354–688789844–1708537768�
 ```
 <br>
 <p align='center'>
-<img src='Images/Ans28.png?raw=true'>
+<img src='image/case-28.png?raw=true'>
 </p>
 
 <br>
@@ -453,7 +453,7 @@ Ans. For this look in the deleted files and we found out that there are total 13
 ```
 <br>
 <p align='center'>
-<img src='Images/Ans30.png?raw=true'>
+<img src='image/case-30.png?raw=true'>
 </p>
 
 <br>
@@ -467,7 +467,7 @@ Ans. Autopsy itself performs an antivirus check & it shows its result inside Int
 ```
 <br>
 <p align='center'>
-<img src='Images/Ans30.png?raw=true'>
+<img src='image/case-31.png?raw=true'>
 </p>
 
 <br>
