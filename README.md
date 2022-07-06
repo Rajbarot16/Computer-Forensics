@@ -1,4 +1,4 @@
-<p align='center' style='font-size:55px' > Computer Forensic </p>
+<h1><p align="center" style='font-size:55px'>Computer-Forensics</p></h1>
 
 <p align='center'>
 <a href="https://github.com/Rajbarot16/"><img title="Author" src="https://img.shields.io/badge/Author-Raj-orange.svg?style=for-the-badge&logo=github"></a>
@@ -6,7 +6,8 @@
 <a href="#"><img title="Autopsy" src="https://img.shields.io/badge/Tool-Autopsy-red.svg?style=for-the-badge&logo="></a>
 </p>
 <br>
-
+<a href="#"><img src="./image/Autopsy.png" align="center">
+<br>
 <h2>Cfred's Hacking Case Walkthrough </h2>
 <p style='font-size:20px'>Case-1: Dell Hacking Case </p>
 
