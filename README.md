@@ -211,6 +211,47 @@ Ans. On looking for the MAC lookup we found out that company name was: XIRCOM
 <p align='center'>
 <a href="#"><img src='./image/case-15.png'></a>
 </p>
-
 <br>
+
+**16. Find 6 installed programs that may be used for hacking.**
+<br>
+```
+Ans. Here Six installed Programs that used for Hacking is below table.
+
+```
+<table border="5" align="center">
+  <tr>
+    <th>Program Found</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td>(1) 123WASP</td>
+    <td>It used to get all stored passwords.</td>
+  </tr>
+   <tr>
+    <td>(2) Look@LAN </td>
+    <td>Network Monitoring tool.</td>
+  </tr>
+   <tr>
+    <td>(3) Ethereal</td>
+    <td>Packet sniffing tool.</td>
+  </tr>
+   <tr>
+    <td>(4) NetStumbler</td>
+    <td>Wireless Networking tool.</td>
+  </tr>
+   <tr>
+    <td>(5) Cain & Abel</td>
+    <td>Password Cracking tool.</td>
+  </tr>
+   <tr>
+    <td>(6) Anonymizer</td>
+    <td>It is tool which is used to create a proxy.</td>
+  </tr>
+</table>
+
+<p align='center'>
+<a href="#"><img src='./image/case-16.png'></a>
+</p>
+
 
