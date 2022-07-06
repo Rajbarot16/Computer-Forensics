@@ -267,4 +267,214 @@ Ans. E-mail Address of Mr. Evil is : whoknowsme@sbcglobal.net
 
 <br>
 
+**18. What are the NNTP (news server) settings for Mr. Evil?**
+```
+Ans.NNTP(news server) is: news.dallas.sbcglobal.net 
+    NNTP User Name: whoknowsme@sbcglobal.net
+    NNTP Password:news.dallas.sbcglobal.netF6E2BA30
+
+```
+```
+For finding the server setting of NNTP search for the NNTP in the keyword and then look for the file NTUSER.DAT
+```
+<br>
+<p align='center'>
+<img src='Images/Ans18.png?raw=true'>
+</p>
+
+<br>
+
+**19. What two installed programs show this information?**
+```
+Ans.Forte Agent & MS Outlook Express reveals the email address of the Mr. Evil
+```
+```
+Go to the path: Path: "C:\Document and Settings\Mr. Evil\NTUSER.dat\Software\Microsoft\Windows\CurrentVersion\UnreadMail\whoknowsme@sbcglobal.net\Application"
+```
+```
+In these we will see that msimn application is the executable for Microsoft Outlook Express.
+```
+<br>
+<p align='center'>
+<img src='Images/Ans19.png?raw=true'>
+</p>
+
+<br>
+
+**20. List 5 newsgroups that Mr. Evil has subscribed to?**
+```
+Ans. List of 5 newsgropus that Mr.Evil has subscribed are:
+     1)Alt.binaries.hacking.utilities 
+     2)Alt.stupidity.hackers.malicious 
+     3)Free.binaries.hackers.malicious 
+     4)Free.binaries.hacking.talentless.troll_haven 
+     5)alt.dss.hack
+```
+```
+Go to the path:“C:\Document and Settings\Mr. Evil\Local Settings\Application Data\Identities\{EF086998–1115–4ECD-9B13 9ADC067B4929} \Microsoft\Outlook Express”
+```
+<br>
+<p align='center'>
+<img src='Images/Ans20.png?raw=true'>
+</p>
+
+<br>
+
+**21. A popular IRC (Internet Relay Chat) program called MIRC was installed.  What are the user settings that was shown when the user was online and in a chat channel?**
+```
+Ans. User settings when the user was online are:
+     1)user=Mini Me 
+     2)email=none@of.ya
+     3)nick=Mr
+     4)anick=mrevilrulez
+```
+```
+Go to the path:“C:\Program Files\mIRC\mirc.ini”.
+```
+<br>
+<p align='center'>
+<img src='Images/Ans21.png?raw=true'>
+</p>
+
+<br>
+
+**22. This IRC program has the capability to log chat sessions. List 3 IRC channels that the user of this computer accessed.**
+```
+Ans. List of 3 IRC channels that the user of this computer accessed are:
+     1)Ushells.UnderNet.log
+     2)m5tar.UnderNet.log
+     3)CyberCafe.UnderNet.log
+```
+```
+Go to the path:"C:\Program Files\mIRC\logs"
+```
+<br>
+<p align='center'>
+<img src='Images/Ans22.png?raw=true'>
+</p>
+
+<br>
+
+**23. Ethereal, a popular “sniffing” program that can be used to intercept wired and wireless internet packets was also found to be installed. When TCP packets are collected and re-assembled, the default save directory is that users \My Documents directory. What is the name of the file that contains the intercepted data?**
+```
+Ans. The name of the file which stores intercepted data is “interception”.
+```
+```
+Go to the path:"C:\Documents and Settings\Mr. Evil\Application Data\Ethereal\recent"
+```
+```
+On viewing the recent file we find that the location of the file which stores capture or intercepted data is “C:\Documents and Settings\Mr. Evil\interception”
+```
+<br>
+<p align='center'>
+<img src='Images/Ans23.png?raw=true'>
+</p>
+
+<br>
+
+**24. Viewing the file in a text format reveals much information about who and what was intercepted. What type of wireless computer was the victim (person who had his internet surfing recorded) using?**
+```
+Ans.The wireless computer that was used by the victim is: Windows CE (Pocket PC) - Version 4.20
+```
+```
+Go to the path:"C:\Documents and Settings\Mr. Evil\interception".
+```
+<br>
+<p align='center'>
+<img src='Images/Ans24.png?raw=true'>
+<img src="Images/Ans24.png?raw=true">
+</p>
+
+<br>
+
+**25. What websites was the victim accessing?**
+```
+Ans. The website accessed by the victim is: mobile.msn.com & MSN Hotmail
+```
+```
+Go to the path:"C:\Documents and Settings\Mr. Evil\interception".
+```
+<br>
+<p align='center'>
+<img src='Images/Ans25.png?raw=true"'>
+<img src='Images/Ans25_1.png?raw=true'>
+</p>
+
+<br>
+
+**26. Search for the main users web based email address. What is it?**
+```
+Ans. For these search in the web history which is present in the Data Artifacts.
+     After searching through all the files, I found a file in which I found that 
+     the user has a login to some FTP service using his email id.
+     Yahoo! Mail - mrevilrulez@yahoo.com
+```
+<br>
+<p align='center'>
+<img src='Images/Ans26.png?raw=true'>
+</p>
+
+<br>
+
+**27. Yahoo mail, a popular web based email service, saves copies of the email under what file name?**
+```
+Ans.To find this, I do a keyword search on the email address.
+    The file found is: "ShowLetter[1].htm"
+```
+<br>
+<p align='center'>
+<img src='Images/Ans27.png?raw=true'>
+</p>
+
+<br>
+
+**28. How many executable files are in the recycle bin?**
+```
+Ans. There are 4 executable files in the recycle bin.
+```
+```
+Go to the path:"C:\RECYCLER\S-1–5–21–2000478354–688789844–1708537768–1003\".
+```
+<br>
+<p align='center'>
+<img src='Images/Ans28.png?raw=true'>
+</p>
+
+<br>
+
+**29. Are these files really deleted?**
+```
+Ans. No, they are not deleted. As they are in recyle bin we can restore it.
+```
+
+**30. How many files are actually reported to be deleted by the file system?**
+```
+
+Ans. For this look in the deleted files and we found out that there are total 1371 files that are deleted by the file system.
+```
+<br>
+<p align='center'>
+<img src='Images/Ans30.png?raw=true'>
+</p>
+
+<br>
+
+**31. Perform a Anti-Virus check. Are there any viruses on the computer?**
+```
+Ans. Autopsy itself performs an antivirus check & it shows its result inside Interesting Items.
+     On seeing that we find out one zip bomb inside our computer whose location is
+     
+     "C:\My Documents\FOOTPRINTING \UNIX\unix_hack.tgz".
+```
+<br>
+<p align='center'>
+<img src='Images/Ans30.png?raw=true'>
+</p>
+
+<br>
+
+<h3>Thanks for reading😊.</h3>
+
+<p align='left'><a href='https://www.linkedin.com/in/rushabh-shah-83907a1a0/'><img alt="linkedin" src="https://img.shields.io/badge/Linkedin%20-%237289DA.svg?&style=for-the-badge&logo=Linkedin&logoColor=white"/></a></p>
+
 
