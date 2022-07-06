@@ -417,7 +417,7 @@ Ans. For these search in the web history which is present in the Data Artifacts.
 
 **27. Yahoo mail, a popular web based email service, saves copies of the email under what file name?**
 ```
-Ans.To find this, I do a keyword search on the email address.
+Ans.Setp 1: Go to Path Document and Settings/Mr. Evil/Local Settings/Temporary Internet Files/Contet.IE5/HYU1BON0/ShowLetter[1].htm
     The file found is: "ShowLetter[1].htm"
 ```
 <br>
@@ -430,9 +430,7 @@ Ans.To find this, I do a keyword search on the email address.
 **28. How many executable files are in the recycle bin?**
 ```
 Ans. There are 4 executable files in the recycle bin.
-```
-```
-Go to the path:"C:\RECYCLER\S-1–5–21–2000478354–688789844–1708537768–1003\".
+     Go to the path:"C:\RECYCLER\S-1–5–21–2000478354–688789844–1708537768–1003\".
 ```
 <br>
 <p align='center'>
@@ -445,6 +443,9 @@ Go to the path:"C:\RECYCLER\S-1–5–21–2000478354–688789844–1708537768�
 ```
 Ans. No, they are not deleted. As they are in recyle bin we can restore it.
 ```
+<p align='center'>
+<img src='image/case-29.png?raw=true'>
+</p>
 
 **30. How many files are actually reported to be deleted by the file system?**
 ```
@@ -463,7 +464,7 @@ Ans. For this look in the deleted files and we found out that there are total 13
 Ans. Autopsy itself performs an antivirus check & it shows its result inside Interesting Items.
      On seeing that we find out one zip bomb inside our computer whose location is
      
-     "C:\My Documents\FOOTPRINTING \UNIX\unix_hack.tgz".
+     Go to Path: "C:\My Documents\FOOTPRINTING \UNIX\unix_hack.tgz".
 ```
 <br>
 <p align='center'>
@@ -472,8 +473,6 @@ Ans. Autopsy itself performs an antivirus check & it shows its result inside Int
 
 <br>
 
-<h3>Thanks for reading😊.</h3>
-
-<p align='left'><a href='https://www.linkedin.com/in/rushabh-shah-83907a1a0/'><img alt="linkedin" src="https://img.shields.io/badge/Linkedin%20-%237289DA.svg?&style=for-the-badge&logo=Linkedin&logoColor=white"/></a></p>
+<p align='left'><a href='https://www.linkedin.com/in/Raj Barot/'><img alt="linkedin" src="https://img.shields.io/badge/Linkedin%20-%237289DA.svg?&style=for-the-badge&logo=Linkedin&logoColor=white"/></a></p>
 
 
